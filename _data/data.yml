@@ -27,9 +27,9 @@ career-profile:
     summary: |
       Legendary.
       
-interests:
+areas:
     title: Current Areas
-    info:
+    assignments:
       - item: Multi-Modal Hashing
       - item: Cross-Modal Retrieval
       - item: Affective Computing
