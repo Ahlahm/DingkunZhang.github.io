@@ -15,19 +15,6 @@ sidebar:
     email: dingkunzhang0xffff@gmail.com
     phone: 152 8558 9817
     timezone: China/Shenzhen Timezone
-    citizenship:
-    website: #xxx.com do not add http://
-    linkedin: 
-    xing: 
-    github: 
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
 
 career-profile:
     title: Biograph
@@ -54,14 +41,12 @@ projects:
     title: Finished Projects
     assignments:
       - title: Defect Detection based on Event Camera
-        link: "#"
         tagline: "Object detection task of multi-scale and multi-type defects on aluminum wafers images obtained from event cameras."
 
 publications:
     title: Publications
     papers:
       - title: How to Make Gummy Bears
-        link: "#"
         authors: Dingkun Zhang
         conference: 1st International Conference on Gummy Bears, 1999
 
