@@ -15,6 +15,12 @@ sidebar:
     email: dingkunzhang0xffff@gmail.com
     phone: 152 8558 9817
     timezone: China/Shenzhen Timezone
+    interests:
+        title: Current Areas
+        info:
+          - item: Multi-Modal Hashing
+          - item: Cross-Modal Retrieval
+          - item: Affective Computing
 
 career-profile:
     title: Biography
