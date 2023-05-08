@@ -42,7 +42,7 @@ education:
     info:
       - degree: Underguaduate in Computer Science and Technology
         university: Harbin Institute of Technology Shenzhen
-        time: 2020 - now
+        time: 2020 - NOW
         details: |
           None.
 projects:
@@ -58,7 +58,7 @@ publications:
       - title: How to Make Gummy Bears
         link: "#"
         authors: Dingkun Zhang
-        conference: 99th International Conference on Gummy Bears, 2099
+        conference: 1st International Conference on Gummy Bears, 1999
 
 skills:
     title: Skills &amp; Proficiency
