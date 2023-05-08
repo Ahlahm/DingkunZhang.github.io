@@ -54,8 +54,6 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      None.
     papers:
       - title: How to Make Gummy Bears
         link: "#"
