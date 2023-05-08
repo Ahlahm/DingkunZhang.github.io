@@ -27,12 +27,12 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
 career-profile:
     title: Biograph
     summary: |
-      None.
+      Legendary.
 current areas:
     title: Cross-Modal Retrieval
     title: Multi-Modal Hashing
@@ -60,7 +60,7 @@ publications:
       - title: How to Make Gummy Bears
         link: "#"
         authors: Dingkun Zhang
-        conference: International Conference on Gummy Bears, 2099
+        conference: 99th International Conference on Gummy Bears, 2099
 
 skills:
     title: Skills &amp; Proficiency
