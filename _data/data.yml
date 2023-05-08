@@ -21,12 +21,12 @@ career-profile:
     summary: |
       Legendary.
       
-projects:
+interests:
     title: Current Areas
-    assignments:
-      - title: Multi-Modal Hashing
-      - title: Cross-Modal Retrieval
-      - title: Affective Computing
+    info:
+      - item: Multi-Modal Hashing
+      - item: Cross-Modal Retrieval
+      - item: Affective Computing
         
 education:
     title: Education
@@ -41,7 +41,7 @@ projects:
     title: Finished Projects
     assignments:
       - title: Defect Detection based on Event Camera
-        tagline: "Object detection task of multi-scale and multi-type defects on aluminum wafers images obtained from event cameras."
+        tagline: "Object detection task of multi-scale and multi-type defects on aluminum wafer images obtained from event cameras."
 
 publications:
     title: Publications
