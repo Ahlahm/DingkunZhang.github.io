@@ -24,9 +24,9 @@ career-profile:
 areas:
     title: Current Areas
     assignments:
-      - item: Multi-Modal Hashing
-      - item: Cross-Modal Retrieval
-      - item: Affective Computing
+      - title: Multi-Modal Hashing
+      - title: Cross-Modal Retrieval
+      - title: Affective Computing
         
 education:
     title: Education
