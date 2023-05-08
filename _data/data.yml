@@ -33,10 +33,14 @@ career-profile:
     title: Biograph
     summary: |
       Legendary.
-current areas:
-    title: Cross-Modal Retrieval
-    title: Multi-Modal Hashing
-    title: Affective Computing
+      
+projects:
+    title: Current Areas
+    assignments:
+      - title: Multi-Modal Hashing
+      - title: Cross-Modal Retrieval
+      - title: Affective Computing
+        
 education:
     title: Education
     info:
@@ -45,6 +49,7 @@ education:
         time: 2020 - NOW
         details: |
           None.
+          
 projects:
     title: Finished Projects
     assignments:
